@@ -128,15 +128,8 @@ An AI-assisted risk assessment platform combining **ML predictions, behavioral s
 
 ### Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gnanadeepyenneti/">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" />
-  </a>
-  <a href="https://github.com/gnanadeep30805">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=60A5FA" />
-  </a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/gnanadeepyenneti/"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" /> </a> <a href="https://github.com/gnanadeep30805"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=60A5FA" /> </a> <a href="mailto:deepu33025@gmail.com"> <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=60A5FA" /> </a> </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=90&section=footer" width="100%" />
 </p>
