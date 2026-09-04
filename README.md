@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=150&section=header&text=Gnanadeep%20Yenneti&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%2B%20MERN%20%2B%20AI&descSize=16&descAlignY=68&descColor=DCE8FF" width="100%" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=160&section=header&text=Gnanadeep%20Yenneti&fontSize=42&fontColor=FFFFFF&fontAlignY=32&animation=fadeIn&desc=Software%20Developer%20%7C%20Java%20%2B%20MERN%20%2B%20AI&descSize=16&descAlignY=53&descColor=DCE8FF" width="100%" /> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20Student-111827?style=for-the-badge&logo=googlescholar&logoColor=60A5FA" />
@@ -98,14 +96,20 @@ An AI-assisted risk assessment platform combining **ML predictions, behavioral s
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111827?style=flat-square\&logo=postgresql\&logoColor=60A5FA)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-111827?style=flat-square\&logo=mongodb\&logoColor=60A5FA)
 
-**AI & Tools:**
+**AI & Generative AI:**
 
-![Gemini](https://img.shields.io/badge/-Gemini%20API-111827?style=flat-square\&logo=google\&logoColor=60A5FA)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-111827?style=flat-square\&logo=scikitlearn\&logoColor=60A5FA)
+![Google Gemini](https://img.shields.io/badge/-Gemini%20API-111827?style=flat-square\&logo=google\&logoColor=60A5FA)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-111827?style=flat-square\&logo=openai\&logoColor=60A5FA)
+![RAG](https://img.shields.io/badge/-RAG-111827?style=flat-square\&logo=googlegemini\&logoColor=60A5FA)
+
+**Tools & Platforms:**
+
 ![Git](https://img.shields.io/badge/-Git-111827?style=flat-square\&logo=git\&logoColor=60A5FA)
 ![GitHub](https://img.shields.io/badge/-GitHub-111827?style=flat-square\&logo=github\&logoColor=60A5FA)
 ![Docker](https://img.shields.io/badge/-Docker-111827?style=flat-square\&logo=docker\&logoColor=60A5FA)
 ![Postman](https://img.shields.io/badge/-Postman-111827?style=flat-square\&logo=postman\&logoColor=60A5FA)
+![VS Code](https://img.shields.io/badge/-VS%20Code-111827?style=flat-square\&logo=visualstudiocode\&logoColor=60A5FA)
+![Figma](https://img.shields.io/badge/-Figma-111827?style=flat-square\&logo=figma\&logoColor=60A5FA)
 
 ---
 
