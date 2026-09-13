@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20CSE%20Student-111827?style=for-the-badge&logo=googlescholar&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/Java%20%2B%20Backend-111827?style=for-the-badge&logo=openjdk&logoColor=60A5FA" />
   <img src="https://img.shields.io/badge/MERN%20Stack-111827?style=for-the-badge&logo=react&logoColor=60A5FA" />
   <img src="https://img.shields.io/badge/DSA%20Grinder-111827?style=for-the-badge&logo=leetcode&logoColor=60A5FA" />
 </p>
